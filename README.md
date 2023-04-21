@@ -9,8 +9,7 @@ Try out the Student portal here - https://student-connect.000webhostapp.com/logi
 Try out the Teacher poral here - https://student-connect.000webhostapp.com/teacher/teacher-login.php
 <br>
 <br>
-Features:<br>
-<h1 style="font-size: 36px;">Title</h1>
+<h1 style="font-size: 36px;">Features</h1><br>
 * Students can sign up and sign in to view their courses, grades, and attendance.
 
 ![](https://github.com/ishan9678/Student-Portal/blob/main/gif/ezgif.com-optimize.gif)
