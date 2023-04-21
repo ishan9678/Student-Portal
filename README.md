@@ -21,6 +21,10 @@ Students can view their details and attendance percentage as a doughnut chart on
 
 ![](https://github.com/ishan9678/Student-Portal/blob/main/gif/ezgif.com-video-to-gif.gif)
 
+View grades and attendance for all courses.<br>
+
+![](https://github.com/ishan9678/Student-Portal/blob/main/gif/ezgif.com-optimize%20(1).gif)
+
 Teachers can sign up and sign in to view all students and manage their grades and attendance.
 Teachers can enter grades and attendance for each student and course.
 
