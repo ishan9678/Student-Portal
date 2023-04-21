@@ -12,7 +12,8 @@ Features
 The Student Portal has the following features:
 
 Students can sign up and sign in to view their courses, grades, and attendance.
-https://github.com/ishan9678/Student-Portal/blob/main/gif/ezgif.com-optimize.gif
+
+![](https://github.com/ishan9678/Student-Portal/blob/main/gif/ezgif.com-optimize.gif)
 
 Students can view their attendance percentage for each course as a doughnut chart.
 Teachers can sign up and sign in to view all students and manage their grades and attendance.
